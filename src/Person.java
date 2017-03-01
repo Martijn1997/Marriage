@@ -56,7 +56,7 @@ public class Person {
 	}
 	
 	/**
-	 * @pre 	...
+	 * @pre 	The selected spouse must be a valid spouse
 	 * 			| canHaveAsSpouse(spouse)
 	 * @param person
 	 */
