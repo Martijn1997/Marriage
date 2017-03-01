@@ -69,7 +69,7 @@ public class Person {
 	// zet de methode op private omdat enkel de methode marry personen mag koppelen
 	
 	/**
-	 * @return	...
+	 * @return	checks if the selecter person is married
 	 * 			|result == (this.getSpouse != null)
 	 */
 	public boolean isMarried(){
